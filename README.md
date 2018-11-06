@@ -1,4 +1,4 @@
-# Userstyle CSS
+# Userstyle CSS Collection
 Style your favorite websites with themes & skins created by the Stylish community. Hundreds of thousands of backgrounds, color schemes and more ~
 
 ### Require
