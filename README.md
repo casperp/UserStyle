@@ -12,7 +12,9 @@ Firefox :
 ```
 https://addons.mozilla.org/id/firefox/addon/stylish/
 ```
-and enable it!
+manage addon > write new style
+
+
 
 ## screenshot
 
