@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img src="https://i.imgur.com/3lzaO71.png" alt="its GabrielTenma" width="500" height="400">
+  <img src="https://i.imgur.com/dpurgck.png" alt="its GabrielTenma" width="500" height="400">
 </p>
 <br>
 
