@@ -1,4 +1,10 @@
-# Userstyle CSS Collection
+<br>
+<p align="center">
+  <img src="https://i.imgur.com/3lzaO71.png" alt="its GabrielTenma" width="500" height="400">
+</p>
+<br>
+
+## Userstyle CSS Collection
 Style your favorite websites with themes & skins created by the Stylish community. Hundreds of thousands of backgrounds, color schemes and more ~
 
 ### Require
